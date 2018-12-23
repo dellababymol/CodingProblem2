@@ -1,0 +1,35 @@
+﻿enter {
+    height: 100px;
+    margin: 0px auto;
+    /*dff*/
+    text-decoration: none;
+    color: white;
+    background-color: mediumpurple;
+    font-family: Arial
+    /*#e07b98;*/
+    /*grey=   #858585;*/
+}
+
+.Autostyle22 {
+    height: 100px;
+    color: #e1be64;
+    background-color: crimson;
+    text-decoration: solid;
+    font-family: 'Scriptina';
+    /*font-style: italic;*/
+    width: 4000px;
+}
+
+.Autostyle33 {
+    /*position: absolute;*/
+    top: 300px;
+    height: 2000px;
+    background-color: hotpink;
+    width: 150px;
+}
+
+.Autostyle44 {
+    height: 2000px;
+    background-color: lightcoral;
+    width: 4000px;
+}

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseTheParcel", "ParseTheParcel\ParseTheParcel.csproj", "{DF09B0D1-9465-4824-9BC2-7983420CF877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{29D40652-CDD2-42DC-89DB-C6A24F80ECD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelLibrary", "ParcelLibrary\ParcelLibrary.csproj", "{A40F6C21-E7B7-44CB-90ED-D11D2F257ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF09B0D1-9465-4824-9BC2-7983420CF877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF09B0D1-9465-4824-9BC2-7983420CF877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF09B0D1-9465-4824-9BC2-7983420CF877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF09B0D1-9465-4824-9BC2-7983420CF877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D40652-CDD2-42DC-89DB-C6A24F80ECD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D40652-CDD2-42DC-89DB-C6A24F80ECD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D40652-CDD2-42DC-89DB-C6A24F80ECD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D40652-CDD2-42DC-89DB-C6A24F80ECD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40F6C21-E7B7-44CB-90ED-D11D2F257ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40F6C21-E7B7-44CB-90ED-D11D2F257ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40F6C21-E7B7-44CB-90ED-D11D2F257ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40F6C21-E7B7-44CB-90ED-D11D2F257ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
