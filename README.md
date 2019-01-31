@@ -1,6 +1,6 @@
-# Project_parse
+Project Coding Problem: 2
 
-Parse the Parcel
+
 
 At Trade Me we're looking to make selling items even easier and so we've decided to build our very own package shipping network. We've dug a tunnel between the North and South Islands that enables us to offer the same rates for parcels sent anywhere in the country, and we've just finished fueling up our fleet of courier vans; all that remains to be done is to update the website so that users can be advised how much their items will cost to send.
 
